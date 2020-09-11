@@ -1,6 +1,7 @@
 def using_include(array, element)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
   array.include?("wow")
+  array.include?("Tardis")
   #it "takes in arguments of an array and an element and returns true if the array includes that element, false if it does not." do
 end
 
